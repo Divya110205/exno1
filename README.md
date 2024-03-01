@@ -1,7 +1,7 @@
 # Exno:1
 # Data Cleaning Process
 
-# AIM
+# Aim
 To read the given data and perform data cleaning and save the cleaned data to a file.
 
 # Explanation
